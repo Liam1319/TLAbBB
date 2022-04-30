@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "TLAbBB"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "TLAbBB."
 
   # This description is used to generate tags and improve search results.
